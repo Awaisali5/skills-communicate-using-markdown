@@ -8,3 +8,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Adding a DropDown List
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Will do Full Stack development in 6th Month
